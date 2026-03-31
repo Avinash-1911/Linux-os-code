@@ -1,0 +1,7 @@
+----- Open Source Manifesto -----
+Date: 31 March 2026
+
+I use firefox daily, and it represents the idea of freedom means i can do whatever id without causing harm to other.
+I believe knowledge should be shared openly.
+One day, I will build software that would help the millions and share it with the world.
+Open source is not just code — it is a philosophy of collaboration.
