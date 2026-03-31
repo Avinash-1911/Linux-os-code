@@ -2,7 +2,7 @@
 
 👨‍🎓 Student Details
 
-Name: Aditya Raj Singh
+Name: Avinash Raj
 
 Course: Open Source Software
 
